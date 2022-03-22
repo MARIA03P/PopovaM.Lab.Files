@@ -5,13 +5,13 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PopovaM.Lab.Files", "PopovaM.Lab.Files.csproj", "{C3AA5D01-D476-436B-A3A6-69ED47F5F5C5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.Files.Ex1", "..\Lab.Files.Ex1\Lab.Files.Ex1.csproj", "{30BCC5EA-DEE2-4236-82B5-4C2DE5495A37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.Files.Ex1", "Lab.Files.Ex1\Lab.Files.Ex1.csproj", "{30BCC5EA-DEE2-4236-82B5-4C2DE5495A37}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.Files.Ex2", "..\Lab.Files.Ex2\Lab.Files.Ex2.csproj", "{BBE48696-22DC-4433-B1FF-A8983E5F3C25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.Files.Ex2", "Lab.Files.Ex2\Lab.Files.Ex2.csproj", "{BBE48696-22DC-4433-B1FF-A8983E5F3C25}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.Files.Ex3", "..\Lab.Files.Ex3\Lab.Files.Ex3.csproj", "{EDD97A32-6604-4016-8CC8-1C4A63108585}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab.Files.Ex3", "Lab.Files.Ex3\Lab.Files.Ex3.csproj", "{EDD97A32-6604-4016-8CC8-1C4A63108585}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp5", "..\ConsoleApp5\ConsoleApp5.csproj", "{D4CB1739-E310-46FC-9A30-C7E12BB77B57}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp5", "ConsoleApp5\ConsoleApp5.csproj", "{D4CB1739-E310-46FC-9A30-C7E12BB77B57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
