@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lab.Files.Ex2": {
+      "commandName": "Project",
+      "commandLineArgs": "Table.csv"
+    }
+  }
+}

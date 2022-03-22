@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lab.Files.Ex1": {
+      "commandName": "Project",
+      "commandLineArgs": "Text.txt"
+    }
+  }
+}
